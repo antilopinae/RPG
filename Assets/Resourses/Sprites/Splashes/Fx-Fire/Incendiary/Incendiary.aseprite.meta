@@ -1,7 +1,582 @@
 fileFormatVersion: 2
 guid: fd96f553741e87b4096f350b269e7805
-DefaultImporter:
+ScriptedImporter:
+  internalIDToNameTable: []
   externalObjects: {}
+  serializedVersion: 2
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Incendiary_Frame_0
+    originalName: 
+    pivot: {x: 9, y: -2.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 66
+      width: 5
+      height: 5
+    spriteID: 6c28c67c1c917594cb5dd795cc34d9cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 245, y: 66}
+  - name: Incendiary_Frame_1
+    originalName: 
+    pivot: {x: 5, y: -1.1111112}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 92
+      width: 9
+      height: 9
+    spriteID: de850a7b2bfcb9f4d928fcf1e42544dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 239, y: 92}
+  - name: Incendiary_Frame_2
+    originalName: 
+    pivot: {x: 2.0454545, y: -0.61538464}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 119
+      width: 22
+      height: 13
+    spriteID: bc72e67fa4c307f40aa6874f2dd44f72
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 119}
+  - name: Incendiary_Frame_3
+    originalName: 
+    pivot: {x: 0.9375, y: -0.31578946}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 188
+      y: 4
+      width: 48
+      height: 19
+    spriteID: 975964ebaac7cc642b92343e2ed2b0d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 188, y: 4}
+  - name: Incendiary_Frame_4
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 92
+      width: 70
+      height: 18
+    spriteID: 42d4ce8fd940cdc419498a2e40e0345a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 92}
+  - name: Incendiary_Frame_5
+    originalName: 
+    pivot: {x: 0.625, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 86
+      y: 66
+      width: 72
+      height: 18
+    spriteID: 02d065ff5b05eba449e8633e5f9a27d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 86, y: 66}
+  - name: Incendiary_Frame_6
+    originalName: 
+    pivot: {x: 0.625, y: -0.2631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 36
+      width: 72
+      height: 19
+    spriteID: 8f3ef5eba5edca741b000537610d4e43
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 36}
+  - name: Incendiary_Frame_7
+    originalName: 
+    pivot: {x: 0.6081081, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 66
+      width: 74
+      height: 18
+    spriteID: 93ee9d2c4a26ced4a9aaec39ac619f32
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 66}
+  - name: Incendiary_Frame_8
+    originalName: 
+    pivot: {x: 0.6164383, y: -0.375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 92
+      width: 73
+      height: 16
+    spriteID: 478ba541ccb121f459ea58a87ca4cdb2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 92}
+  - name: Incendiary_Frame_9
+    originalName: 
+    pivot: {x: 0.63380283, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 66
+      width: 71
+      height: 18
+    spriteID: 64bcf921448977644bde9172af0cc0d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 66}
+  - name: Incendiary_Frame_10
+    originalName: 
+    pivot: {x: 0.6029412, y: -0.2631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 92
+      width: 68
+      height: 19
+    spriteID: bdaacc0de920acf4891185593d49bee9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 92}
+  - name: Incendiary_Frame_11
+    originalName: 
+    pivot: {x: 0.53521127, y: -0.1904762}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 36
+      width: 71
+      height: 21
+    spriteID: 602ed86c0308f19498188716f0b7b56e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 36}
+  - name: Incendiary_Frame_12
+    originalName: 
+    pivot: {x: 0.50666666, y: -0.18181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 36
+      width: 75
+      height: 22
+    spriteID: f41f866d8dcf5d3479a7db1374a50192
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 36}
+  - name: Incendiary_Frame_13
+    originalName: 
+    pivot: {x: 0.45238099, y: -0.125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 84
+      height: 24
+    spriteID: addcd1db25c75084a9c038f1eeaa7d36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Incendiary_Frame_14
+    originalName: 
+    pivot: {x: 0.45238099, y: -0.125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 4
+      width: 84
+      height: 24
+    spriteID: 7838577bf2678a54bb0868d6f9c8a8e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 4}
+  - name: Incendiary_Frame_15
+    originalName: 
+    pivot: {x: -0.108108155, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 119
+      width: 37
+      height: 23
+    spriteID: 6831f6c86f7c6864a8a56e6b6def49bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 119}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1330851068
+    name: Incendiary
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Incendiary_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 3
+        y: 11
+        width: 5
+        height: 5
+      spriteId: 6c28c67c1c917594cb5dd795cc34d9cb
+    - name: Incendiary_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 3
+        y: 10
+        width: 9
+        height: 9
+      spriteId: de850a7b2bfcb9f4d928fcf1e42544dc
+    - name: Incendiary_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 3
+        y: 8
+        width: 22
+        height: 13
+      spriteId: bc72e67fa4c307f40aa6874f2dd44f72
+    - name: Incendiary_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 3
+        y: 6
+        width: 48
+        height: 19
+      spriteId: 975964ebaac7cc642b92343e2ed2b0d1
+    - name: Incendiary_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 3
+        y: 6
+        width: 70
+        height: 18
+      spriteId: 42d4ce8fd940cdc419498a2e40e0345a
+    - name: Incendiary_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 3
+        y: 6
+        width: 72
+        height: 18
+      spriteId: 02d065ff5b05eba449e8633e5f9a27d5
+    - name: Incendiary_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 3
+        y: 5
+        width: 72
+        height: 19
+      spriteId: 8f3ef5eba5edca741b000537610d4e43
+    - name: Incendiary_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 3
+        y: 6
+        width: 74
+        height: 18
+      spriteId: 93ee9d2c4a26ced4a9aaec39ac619f32
+    - name: Incendiary_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 3
+        y: 6
+        width: 73
+        height: 16
+      spriteId: 478ba541ccb121f459ea58a87ca4cdb2
+    - name: Incendiary_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 3
+        y: 6
+        width: 71
+        height: 18
+      spriteId: 64bcf921448977644bde9172af0cc0d2
+    - name: Incendiary_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 7
+        y: 5
+        width: 68
+        height: 19
+      spriteId: bdaacc0de920acf4891185593d49bee9
+    - name: Incendiary_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 10
+        y: 4
+        width: 71
+        height: 21
+      spriteId: 602ed86c0308f19498188716f0b7b56e
+    - name: Incendiary_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 10
+        y: 4
+        width: 75
+        height: 22
+      spriteId: f41f866d8dcf5d3479a7db1374a50192
+    - name: Incendiary_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 10
+        y: 3
+        width: 84
+        height: 24
+      spriteId: addcd1db25c75084a9c038f1eeaa7d36
+    - name: Incendiary_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 10
+        y: 3
+        width: 84
+        height: 24
+      spriteId: 7838577bf2678a54bb0868d6f9c8a8e4
+    - name: Incendiary_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 52
+        y: 4
+        width: 37
+        height: 23
+      spriteId: 6831f6c86f7c6864a8a56e6b6def49bf
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 96, y: 32}

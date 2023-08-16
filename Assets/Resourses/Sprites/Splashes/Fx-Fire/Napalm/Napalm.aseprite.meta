@@ -1,7 +1,778 @@
 fileFormatVersion: 2
 guid: 3c506200cafcc8e479da7dba30224bf8
-DefaultImporter:
+ScriptedImporter:
+  internalIDToNameTable: []
   externalObjects: {}
+  serializedVersion: 2
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Napalm_Frame_0
+    originalName: 
+    pivot: {x: 11.6, y: -4.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 27
+      width: 5
+      height: 5
+    spriteID: d01bbbf50b6a50944aeec98700b9a18f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 27}
+  - name: Napalm_Frame_1
+    originalName: 
+    pivot: {x: 11.6, y: -4.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 225
+      y: 4
+      width: 5
+      height: 5
+    spriteID: 1e16c6184fc84284f81b8ffc9156636e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 4}
+  - name: Napalm_Frame_2
+    originalName: 
+    pivot: {x: 11.6, y: -4.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 238
+      y: 4
+      width: 5
+      height: 5
+    spriteID: 8bf0e2c09d3899f4a9f5974155df8658
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 238, y: 4}
+  - name: Napalm_Frame_3
+    originalName: 
+    pivot: {x: 11.6, y: -4.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 179
+      y: 41
+      width: 5
+      height: 5
+    spriteID: 97dffd20834c0fd41919bbf31666b3d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 179, y: 41}
+  - name: Napalm_Frame_4
+    originalName: 
+    pivot: {x: 0.4166667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 27
+      width: 12
+      height: 6
+    spriteID: 4fdd697a3e174a749bd3403559678414
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 27}
+  - name: Napalm_Frame_5
+    originalName: 
+    pivot: {x: 0.57894737, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 152
+      y: 41
+      width: 19
+      height: 19
+    spriteID: 9de744fd8735223479084582514a9db6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 152, y: 41}
+  - name: Napalm_Frame_6
+    originalName: 
+    pivot: {x: 0.52, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 41
+      width: 50
+      height: 32
+    spriteID: dbdffa01cf2b210459a338aa59a0682b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: 41}
+  - name: Napalm_Frame_7
+    originalName: 
+    pivot: {x: 0.5243902, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 41
+      width: 82
+      height: 32
+    spriteID: d350a7362ef8a564eb870614095c22ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 41}
+  - name: Napalm_Frame_8
+    originalName: 
+    pivot: {x: 0.5263158, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 95
+      height: 29
+    spriteID: e1be17844a73d1b42b091778a8774d47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Napalm_Frame_9
+    originalName: 
+    pivot: {x: 0.5272727, y: -0.73333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 4
+      width: 110
+      height: 15
+    spriteID: 60e306757237e4647b6324d98164d9aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 4}
+  - name: Napalm_Frame_10
+    originalName: 
+    pivot: {x: 0.49572653, y: -0.5833334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 81
+      width: 117
+      height: 12
+    spriteID: b4bc4a8372563544ea7064404e94dc7f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 81}
+  - name: Napalm_Frame_11
+    originalName: 
+    pivot: {x: 0.49137932, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 101
+      width: 116
+      height: 12
+    spriteID: 6b80654c70c03eb4ba4252f2cbce3f60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 101}
+  - name: Napalm_Frame_12
+    originalName: 
+    pivot: {x: 0.460177, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 175
+      width: 113
+      height: 7
+    spriteID: 1f6ffb6d5e694dd4a807d10fa202ce57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: 175}
+  - name: Napalm_Frame_13
+    originalName: 
+    pivot: {x: 0.47222224, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 27
+      width: 108
+      height: 5
+    spriteID: c0c91725ab856304e9ee56731f48cf86
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 27}
+  - name: Napalm_Frame_14
+    originalName: 
+    pivot: {x: 0.48717952, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 101
+      width: 117
+      height: 11
+    spriteID: abbc5bd3838e9574683dba8ba80a86ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: 101}
+  - name: Napalm_Frame_15
+    originalName: 
+    pivot: {x: 0.4915254, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 121
+      width: 118
+      height: 10
+    spriteID: f3fbeb5776f427247b8e245162e11c99
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 121}
+  - name: Napalm_Frame_16
+    originalName: 
+    pivot: {x: 0.48717952, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 121
+      width: 117
+      height: 11
+    spriteID: 6eb6cf7d26fa34f4086c326ae03ea6b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 121}
+  - name: Napalm_Frame_17
+    originalName: 
+    pivot: {x: 0.487395, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 81
+      width: 119
+      height: 12
+    spriteID: faab51706f0794747aa2c35ce4a20b23
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 81}
+  - name: Napalm_Frame_18
+    originalName: 
+    pivot: {x: 0.48717952, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 158
+      width: 117
+      height: 9
+    spriteID: be3dcce33ae36aa47a3bfcc754cee057
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: 158}
+  - name: Napalm_Frame_19
+    originalName: 
+    pivot: {x: 0.4915254, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 158
+      width: 118
+      height: 9
+    spriteID: f1288b2d858cc124592ee0a792d3be78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 158}
+  - name: Napalm_Frame_20
+    originalName: 
+    pivot: {x: 0.49137932, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 175
+      width: 116
+      height: 9
+    spriteID: 3249508756188c740b2b09092fdeb2b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 175}
+  - name: Napalm_Frame_21
+    originalName: 
+    pivot: {x: 0.48717952, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 140
+      width: 117
+      height: 10
+    spriteID: 5bf09b9e709657e4da7001a0d16e8f14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 140}
+  - name: Napalm_Frame_22
+    originalName: 
+    pivot: {x: 0.48717952, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 140
+      width: 117
+      height: 10
+    spriteID: dd43e2cb3e5cc85408cfd5717dace393
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 140}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -71850829
+    name: Napalm
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Napalm_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 6
+        y: 22
+        width: 5
+        height: 5
+      spriteId: d01bbbf50b6a50944aeec98700b9a18f
+    - name: Napalm_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 6
+        y: 22
+        width: 5
+        height: 5
+      spriteId: 1e16c6184fc84284f81b8ffc9156636e
+    - name: Napalm_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 6
+        y: 22
+        width: 5
+        height: 5
+      spriteId: 8bf0e2c09d3899f4a9f5974155df8658
+    - name: Napalm_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 6
+        y: 22
+        width: 5
+        height: 5
+      spriteId: 97dffd20834c0fd41919bbf31666b3d1
+    - name: Napalm_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 59
+        y: 0
+        width: 12
+        height: 6
+      spriteId: 4fdd697a3e174a749bd3403559678414
+    - name: Napalm_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 53
+        y: 0
+        width: 19
+        height: 19
+      spriteId: 9de744fd8735223479084582514a9db6
+    - name: Napalm_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 38
+        y: 0
+        width: 50
+        height: 32
+      spriteId: dbdffa01cf2b210459a338aa59a0682b
+    - name: Napalm_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 21
+        y: 0
+        width: 82
+        height: 32
+      spriteId: d350a7362ef8a564eb870614095c22ee
+    - name: Napalm_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 14
+        y: 0
+        width: 95
+        height: 29
+      spriteId: e1be17844a73d1b42b091778a8774d47
+    - name: Napalm_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 6
+        y: 11
+        width: 110
+        height: 15
+      spriteId: 60e306757237e4647b6324d98164d9aa
+    - name: Napalm_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 6
+        y: 7
+        width: 117
+        height: 12
+      spriteId: b4bc4a8372563544ea7064404e94dc7f
+    - name: Napalm_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 7
+        y: 0
+        width: 116
+        height: 12
+      spriteId: 6b80654c70c03eb4ba4252f2cbce3f60
+    - name: Napalm_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 12
+        y: 0
+        width: 113
+        height: 7
+      spriteId: 1f6ffb6d5e694dd4a807d10fa202ce57
+    - name: Napalm_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 13
+        y: 0
+        width: 108
+        height: 5
+      spriteId: c0c91725ab856304e9ee56731f48cf86
+    - name: Napalm_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 7
+        y: 0
+        width: 117
+        height: 11
+      spriteId: abbc5bd3838e9574683dba8ba80a86ab
+    - name: Napalm_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 6
+        y: 0
+        width: 118
+        height: 10
+      spriteId: f3fbeb5776f427247b8e245162e11c99
+    - name: Napalm_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 7
+        y: 0
+        width: 117
+        height: 11
+      spriteId: 6eb6cf7d26fa34f4086c326ae03ea6b4
+    - name: Napalm_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 6
+        y: 0
+        width: 119
+        height: 12
+      spriteId: faab51706f0794747aa2c35ce4a20b23
+    - name: Napalm_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 7
+        y: 0
+        width: 117
+        height: 9
+      spriteId: be3dcce33ae36aa47a3bfcc754cee057
+    - name: Napalm_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 6
+        y: 0
+        width: 118
+        height: 9
+      spriteId: f1288b2d858cc124592ee0a792d3be78
+    - name: Napalm_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 7
+        y: 0
+        width: 116
+        height: 9
+      spriteId: 3249508756188c740b2b09092fdeb2b6
+    - name: Napalm_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 7
+        y: 0
+        width: 117
+        height: 10
+      spriteId: 5bf09b9e709657e4da7001a0d16e8f14
+    - name: Napalm_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 7
+        y: 0
+        width: 117
+        height: 10
+      spriteId: dd43e2cb3e5cc85408cfd5717dace393
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 128, y: 32}
